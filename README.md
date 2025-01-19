@@ -1,6 +1,6 @@
 # Leverify Capstone Project  
 
-This repository contains the *Leverify Capstone Project, completed as part of a data analyst internship. The project focuses on analyzing, visualizing, reporting data, and solving queries using industry-standard tools like **Excel**, **Power BI**, **Looker Studio**, and **SQL**.  
+This repository contains the **Leverify Capstone Project**, completed as part of a data analyst internship. The project focuses on analyzing, visualizing, reporting data, and solving queries using industry-standard tools like **Excel**, **Power BI**, **Looker Studio**, and **SQL**.  
 
 ## Files Included  
 - **Excel File (.xlsx)**: Contains raw data, data cleaning, and analysis.  
